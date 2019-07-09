@@ -1,2 +1,2 @@
 # cloudimg
-配合PicGo作博客图床
+配合[PicGo](https://github.com/Molunerfinn/PicGo)作博客图床
